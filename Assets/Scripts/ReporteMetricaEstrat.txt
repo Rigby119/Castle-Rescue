@@ -1,0 +1,79 @@
+<<<<<<<<<<<<<<<<<<<<< STRATEGY >>>>>>>>>>>>>>>>>>>>>>>>
+
+📊 ANÁLISIS DE RESULTADOS (1000 simulaciones)
+============================================================
+🏆 Simulaciones que salvaron MÁS DE 5 víctimas: 142
+📈 Porcentaje de éxito (>5 víctimas): 14.2%
+
+ ESTADÍSTICAS GENERALES:
+------------------------------
+Total de victorias (≥7 víctimas): 46
+Porcentaje de victorias: 4.6%
+Promedio de víctimas salvadas: 3.60
+Promedio de pasos por simulación: 33.3
+Tiempo total de ejecución: 435.1 segundos
+
+📊 DISTRIBUCIÓN DE VÍCTIMAS SALVADAS:
+----------------------------------------
+ 0 víctimas:   25 veces (  2.5%) █
+ 1 víctimas:   67 veces (  6.7%) ███
+ 2 víctimas:  159 veces ( 15.9%) ███████
+ 3 víctimas:  247 veces ( 24.7%) ████████████
+ 4 víctimas:  225 veces ( 22.5%) ███████████
+ 5 víctimas:  135 veces ( 13.5%) ██████
+ 6 víctimas:   96 veces (  9.6%) ████
+ 7 víctimas:   46 veces (  4.6%) ██
+
+🔍 RAZONES DE FINALIZACIÓN:
+------------------------------
+damage: 782 veces (78.2%)
+victims deads: 172 veces (17.2%)
+victims: 46 veces (4.6%)
+
+🎯 RESUMEN EJECUTIVO:
+==================================================
+• Simulaciones exitosas (>5 víctimas): 142/1000
+• Tasa de éxito (>5 víctimas): 14.2%
+• Victorias completas (≥7 víctimas): 46
+• Tasa de victoria: 4.6%
+• Promedio de víctimas salvadas: 3.60
+• En simulaciones exitosas (>5), promedio: 6.32 víctimas
+
+✅ Análisis completado en 435.1 segundos
+
+
+<<<<<<<<<<<<<<<<<<<<< RANDOM >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+📊 ANÁLISIS DE RESULTADOS (1000 simulaciones)
+============================================================
+🏆 Simulaciones que salvaron MÁS DE 5 víctimas: 0
+📈 Porcentaje de éxito (>5 víctimas): 0.0%
+
+📈 ESTADÍSTICAS GENERALES:
+------------------------------
+Total de victorias (≥7 víctimas): 0
+Porcentaje de victorias: 0.0%
+Promedio de víctimas salvadas: 0.00
+Promedio de pasos por simulación: 22.4
+Tiempo total de ejecución: 46.9 segundos
+
+📊 DISTRIBUCIÓN DE VÍCTIMAS SALVADAS:
+----------------------------------------
+ 0 víctimas: 1000 veces (100.0%) 
+
+🔍 RAZONES DE FINALIZACIÓN:
+------------------------------
+damage: 948 veces (94.8%)
+victims deads: 52 veces (5.2%)
+
+🎯 RESUMEN EJECUTIVO:
+==================================================
+• Simulaciones exitosas (>5 víctimas): 0/1000
+• Tasa de éxito (>5 víctimas): 0.0%
+• Victorias completas (≥7 víctimas): 0
+• Tasa de victoria: 0.0%
+• Promedio de víctimas salvadas: 0.00
+
+✅ Análisis completado en 46.9 segundos
